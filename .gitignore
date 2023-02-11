@@ -4,3 +4,5 @@ spec.d
 .cproject
 core
 .settings
+libraries
+/Release/
